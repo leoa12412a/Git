@@ -13,11 +13,16 @@
 ```
 git init
 ```
-2.將所有檔案加入版本控制中<br />
+2.第一次使用需要輸入mail與姓名<br />
+```
+git config --global user.name "您的姓名"
+git config --global user.email "您的Email"
+```
+3.將所有檔案加入版本控制中<br />
 ```
 git add .<br />
 ```
-3.進行commit<br />
+4.進行commit<br />
 ```
 git commit -m "first commit"
 ```
