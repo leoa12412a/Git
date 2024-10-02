@@ -20,7 +20,7 @@ git config --global user.email "您的Email"
 ```
 3.將所有檔案加入版本控制中<br />
 ```
-git add .<br />
+git add .
 ```
 4.進行commit<br />
 ```
